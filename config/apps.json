@@ -1,0 +1,38 @@
+{
+  "_comment": "Example app definitions for the iyouke/星云有客 mini-program template. Add or edit entries for other mini-programs that use the same backend.",
+  "base": "smp-api.iyouke.com",
+  "apps": [
+    {
+      "key": "hula",
+      "name": "呼啦圈会员中心",
+      "appid": "wx89a714fb03b61b99",
+      "version": "2.33.3",
+      "pkgVersion": "43",
+      "wish": {
+        "cycle": "every_day",
+        "limit": 3,
+        "cycleValue": 3,
+        "points": 1
+      },
+      "signPoints": 1,
+      "hasViewLiveTask": true,
+      "subscribePoints": 1
+    },
+    {
+      "key": "jiejie",
+      "name": "姐姐很贵",
+      "appid": "wx0060a44b32926a29",
+      "version": "2.33.3",
+      "pkgVersion": "61",
+      "wish": {
+        "cycle": "every_week",
+        "limit": 1,
+        "cycleValue": 1,
+        "points": 10
+      },
+      "signPoints": 5,
+      "hasViewLiveTask": false,
+      "subscribePoints": 10
+    }
+  ]
+}

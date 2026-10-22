@@ -1,0 +1,22 @@
+# Runtime data: tokens, logs, subscription state, result files
+data/
+
+# User-specific config (created from config.example.json)
+config/config.json
+
+# Optional notification secrets
+config/notify.json
+
+# Node
+node_modules/
+
+# Logs / temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

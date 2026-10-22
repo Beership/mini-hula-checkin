@@ -1,0 +1,23 @@
+{
+  "wechatPath": "",
+  "startHour": 9,
+  "currentAccount": "default",
+  "accounts": [
+    {
+      "id": "default",
+      "name": "默认账号",
+      "apps": [
+        "hula",
+        "jiejie"
+      ]
+    }
+  ],
+  "notify": {
+    "toast": true,
+    "webhook": {
+      "type": "",
+      "url": "",
+      "token": ""
+    }
+  }
+}

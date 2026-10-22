@@ -1,0 +1,17 @@
+{
+  "name": "wechat-mini-checkin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Educational Windows automation for WeChat mini-program daily check-ins",
+  "license": "MIT",
+  "main": "src/run-daily.js",
+  "scripts": {
+    "setup": "node tools/setup.js",
+    "harvest": "node tools/harvest.js",
+    "daily": "node src/run-daily.js",
+    "doctor": "powershell -NoProfile -ExecutionPolicy Bypass -File tools/doctor.ps1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
