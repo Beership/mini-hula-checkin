@@ -43,6 +43,8 @@
 |---|---|
 | <img src="docs/images/hula-home.png" width="260" alt="呼啦圈会员中心"> | <img src="docs/images/jiejie-home.png" width="260" alt="姐姐很贵"> |
 
+> 注：姐姐很贵小程序页面顶部显示为“肖恩家vip会员服务中心”。
+
 **积分商城 · 兑换分类（日用品、食品、电子券等）**
 
 <img src="docs/images/hula-redeem.png" width="300" alt="积分商城兑换分类">
